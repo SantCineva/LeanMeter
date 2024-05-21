@@ -8,3 +8,5 @@ This project uses:
 
 Everything is just ready to be flashed to the Pi Pico by just uploading everything to the microcontroller's root directory.
 All the external libraryes are included here.
+
+For the custom fonts I used https://github.com/peterhinch/micropython-font-to-py
